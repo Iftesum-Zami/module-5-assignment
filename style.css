@@ -113,43 +113,18 @@ section{
 footer p{
     text-align: center;
 }
-/*
-<footer>
-    <p>© Iftesum Zami 2020, all rights reserved.</p>
-</footer>
-
-
-
-top: 70%;
-margin-top: -50px;
-<div style="margin10%">
-    <div class="contact">
-        <p>Leave me a massage here</p>
-        <a id="button2" href="https://programminghero1@gmail.com" target="_blank">programminghero1@gmail.com</a>
-    </div>
-</div>
-
-.single-experience{
-    box-shadow: 10px 10px 40px gray;
-    border-radius: 5px;
-    height: 85%;
+.last{
+    height: 0;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: orange;
 }
-.experience-area{
-    background-image: url("images2/exp-bg.png");
-    background-repeat: no-repeat;
-    background-position: left;
+.description{
+    color: black;
+    font-weight: bolder;
+    float: left;
+    margin: 5%;
 }
-#full-stack{
-    border-left: 7px solid;
-    border-image: linear-gradient(180deg, lightsalmon, tomato);
-    border-image-slice: 1;
-    background-color: white;
+.description:hover{
+    color: white;
 }
-#baby-web{
-    border-left: 7px solid;
-    border-image: linear-gradient(180deg, blue, cyan);
-    border-image-slice: 1;
-}
-footer p{
-    text-align: center;
-} */
