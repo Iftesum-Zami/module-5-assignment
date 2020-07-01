@@ -1,0 +1,155 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0px;
+}
+h1{
+    font-size: 40px;
+    font-weight: bolder;
+}
+.header{
+    font-size: 25px;
+}
+h2{
+    font-size: 30px;
+}
+p{
+    color: dimgray;
+}
+.orange-highlight{
+    color: rgb(255, 105, 118);
+}
+.half-width{
+    width: 37%;
+    float: left;
+    margin: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width: 100%;
+}
+.top-banner{
+    background-image: url("images/header-bg.png");
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+.button1{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, hotpink, deeppink);
+    padding: 10px 25px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+.biograpgy{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: cover;
+}
+.mywork{
+    height: 300px;
+    text-align: center;
+    padding-left: 70px;
+    padding-right: 70px;
+    padding-top: 50px;
+    background-image: url("images/latest-work-bg.png");
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.work-picture{
+    width: 30%;
+    float: left;
+    margin: 1%;
+    padding-left: 10px;
+    
+}
+.work-picture img{
+    width: 100%;
+}
+.container{
+    text-align: center;
+    height: 350px;
+    background-image: url("images/footer-bg.png");
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#client{
+    color: black;
+}
+#client2{
+    font-size: smaller;
+}
+#quote{
+    color: black;
+}
+.contact{
+    text-align: center;
+    background-image: linear-gradient(45deg, hotpink, deeppink);
+    position: absolute;
+    left: 50%;
+    margin-left: -170px;
+    width: 300px;
+    height: 100px;
+    padding: 10px 25px;
+    border-radius: 5px;
+    
+}
+.contact p{
+    color: white;
+    font-size: smaller;
+}
+#button2{
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+}
+footer p{
+    text-align: center;
+}
+/*
+<footer>
+    <p>© Iftesum Zami 2020, all rights reserved.</p>
+</footer>
+
+
+
+top: 70%;
+margin-top: -50px;
+<div style="margin10%">
+    <div class="contact">
+        <p>Leave me a massage here</p>
+        <a id="button2" href="https://programminghero1@gmail.com" target="_blank">programminghero1@gmail.com</a>
+    </div>
+</div>
+
+.single-experience{
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 5px;
+    height: 85%;
+}
+.experience-area{
+    background-image: url("images2/exp-bg.png");
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#full-stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, lightsalmon, tomato);
+    border-image-slice: 1;
+    background-color: white;
+}
+#baby-web{
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, blue, cyan);
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+} */
